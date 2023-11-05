@@ -1,0 +1,5 @@
+HTTPS : https://github.com/joshuachan0509/prj1_12223802_LimYechan.git
+
+SSH : git@github.com:joshuachan0509/prj1_12223802_LimYechan.git
+
+GitHub CLI : gh repo clone joshuachan0509/prj1_12223802_LimYechan
